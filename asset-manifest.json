@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sathishkumar098/ecommerce/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/sathishkumar098/ecommerce/static/js/main.44233c5c.chunk.js",
-    "main.js.map": "/sathishkumar098/ecommerce/static/js/main.44233c5c.chunk.js.map",
-    "runtime-main.js": "/sathishkumar098/ecommerce/static/js/runtime-main.c6fc524a.js",
-    "runtime-main.js.map": "/sathishkumar098/ecommerce/static/js/runtime-main.c6fc524a.js.map",
-    "static/js/2.2a8676d9.chunk.js": "/sathishkumar098/ecommerce/static/js/2.2a8676d9.chunk.js",
-    "static/js/2.2a8676d9.chunk.js.map": "/sathishkumar098/ecommerce/static/js/2.2a8676d9.chunk.js.map",
-    "index.html": "/sathishkumar098/ecommerce/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/sathishkumar098/ecommerce/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.2a8676d9.chunk.js.LICENSE.txt": "/sathishkumar098/ecommerce/static/js/2.2a8676d9.chunk.js.LICENSE.txt"
+    "main.css": "/sathishkumar098/ecommerce.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sathishkumar098/ecommerce.git/static/js/main.44233c5c.chunk.js",
+    "main.js.map": "/sathishkumar098/ecommerce.git/static/js/main.44233c5c.chunk.js.map",
+    "runtime-main.js": "/sathishkumar098/ecommerce.git/static/js/runtime-main.3f0e3df0.js",
+    "runtime-main.js.map": "/sathishkumar098/ecommerce.git/static/js/runtime-main.3f0e3df0.js.map",
+    "static/js/2.2a8676d9.chunk.js": "/sathishkumar098/ecommerce.git/static/js/2.2a8676d9.chunk.js",
+    "static/js/2.2a8676d9.chunk.js.map": "/sathishkumar098/ecommerce.git/static/js/2.2a8676d9.chunk.js.map",
+    "index.html": "/sathishkumar098/ecommerce.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sathishkumar098/ecommerce.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2a8676d9.chunk.js.LICENSE.txt": "/sathishkumar098/ecommerce.git/static/js/2.2a8676d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6fc524a.js",
+    "static/js/runtime-main.3f0e3df0.js",
     "static/js/2.2a8676d9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.44233c5c.chunk.js"
